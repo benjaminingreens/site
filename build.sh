@@ -36,6 +36,8 @@ CONTENT_HTML="$(render)"
 cat > "$OUT" <<HTML
 <!DOCTYPE html>
 <html lang="en">
+<script data-goatcounter="https://benjaminingreens.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
