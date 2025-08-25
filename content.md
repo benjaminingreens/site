@@ -5,7 +5,7 @@
 ## Monday 25th August 2025
 
 **19:25**  
-Midwives did the pre-induction examination and found that Becky was already 2-3cm dilated. They did a sweep to help move things along. We are booked to be taken up to the delivery suite ASAP so they can break her waters
+Midwives did the pre-induction examination and found that Becky was already 2-3cm dilated. There's no need for hormones as things have progressed naturally. They did a sweep to help move things along. We are booked to be taken up to the delivery suite ASAP so they can break her waters
 
 **19:20**  
 Had a cheeky puff of gas and air (Ben)
