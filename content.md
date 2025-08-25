@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**17:15**  
+Apparently the doctor should be arriving soon. Fr fr ong this time
+
 **17:00**  
 The midwives are re-checking Asa's vital signs. They seem much better this time, which hopefully means we can now go ahead
 
@@ -53,3 +56,5 @@ Provided urine sample and threw up
 
 **10:15**  
 Arrived, processed, and briefed on induction methods  
+
+![Arrival](IMG_3443.HEIC)
