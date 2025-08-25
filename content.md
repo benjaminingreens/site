@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**22:30**  
+Contractions have started. Still awaiting manual breaking of the waters
+
 **22:00**  
 We've moved to the delivery suite and we are awaiting the breaking of the waters
 
