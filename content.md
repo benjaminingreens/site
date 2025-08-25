@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**23:30**  
+Unsuccessful attempt to break waters. Apparently dilation has slightly reversed. We might have to go downstairs again to get some hormones to push us from the cusp of labour into active labour
+
 **23:00**  
 Cannula inserted with some difficulty. Waters about to be broken
 
