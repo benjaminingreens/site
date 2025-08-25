@@ -5,7 +5,7 @@
 ## Monday 25th August 2025
 
 **17:40**  
-Midwife is happy with the vital signs and has said she'll administer it after checking with the doctor
+Midwife is happy with the vital signs and has said she'll administer the hormones after checking with the doctor
 
 **17:25**  
 Dinner served
