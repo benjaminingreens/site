@@ -1,3 +1,39 @@
+#!/bin/sh
+set -eu
+
+MD="content.md"
+OUT="index.html"
+
+# --- choose a markdown renderer (no hard-coding of structure) ---
+render() {
+  if command -v lowdown >/dev/null 2>&1; then
+    # fast C renderer
+    lowdown -s -Thtml "$MD"
+  elif python3 - <<'PY' >/dev/null 2>&1
+import importlib.util; import sys
+sys.exit(0 if importlib.util.find_spec("markdown") else 1)
+PY
+  then
+    # Python markdown lib
+    python3 - "$MD" <<'PY'
+import sys, markdown
+print(markdown.markdown(open(sys.argv[1], 'r', encoding='utf-8').read()))
+PY
+  elif command -v cmark >/dev/null 2>&1; then
+    # CommonMark reference parser
+    cmark "$MD"
+  else
+    # last-resort: keep content readable without guessing structure
+    # (escape HTML and wrap in <pre>)
+    esc="$(sed -e 's/&/\&amp;/g' -e 's/</\&lt;/g' -e 's/>/\&gt;/g' "$MD")"
+    printf '<pre>%s</pre>\n' "$esc"
+  fi
+}
+
+CONTENT_HTML="$(render)"
+
+# --- write the styled page wrapper (your exact style) ---
+cat > "$OUT" <<HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,30 +65,10 @@
 </head>
 <body>
   <div class="content">
-<h1>Asa's Birth: A Live Log</h1>
-<h2>Monday 25th August 2025</h2>
-<p><em><strong>14:30</strong></em><br />
-Becky in an out of sleep and doctor still being awaited</p>
-<p><em><strong>14:00</strong></em><br />
-Becky takes some paracetamol for the headache. Doctor still being awaited</p>
-<p><em><strong>13:30</strong></em><br />
-Becky gets a headache</p>
-<p><em><strong>13:15</strong></em><br />
-Hormone treatment prescribed. Doctor being awaited for administration</p>
-<p><em><strong>13:00</strong></em><br />
-CTG equipment attached to confirm all is well with baby before beginning induction</p>
-<p><em><strong>12:30</strong></em><br />
-Lunch served</p>
-<p><em><strong>11:55</strong></em><br />
-Heartbeat check on baby</p>
-<p><em><strong>11:45</strong></em><br />
-Decided on hormone induction</p>
-<p><em><strong>11:15</strong></em><br />
-Had some tea and croissants and discussed induction methods</p>
-<p><em><strong>11:00</strong></em><br />
-Provided urine sample and threw up</p>
-<p><em><strong>10:15</strong></em><br />
-Arrived, processed, and briefed on induction methods</p>
+${CONTENT_HTML}
   </div>
 </body>
 </html>
+HTML
+
+echo "Wrote $OUT"
