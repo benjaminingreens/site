@@ -63,6 +63,7 @@ cat > "$OUT" <<HTML
     li::before { content: '* '; }
     a { color: white; text-decoration: underline; }
     a:hover { text-decoration: none; }
+    img {max-width: 100%; height: auto; display: block; margin: 1em 0; }
   </style>
 </head>
 <body>
