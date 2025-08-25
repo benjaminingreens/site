@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**23:00**  
+Cannula inserted with some difficulty. Waters about to be broken
+
 **22:30**  
 Contractions have started. Still awaiting manual breaking of the waters
 
