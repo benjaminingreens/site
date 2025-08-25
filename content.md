@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**00:30**  
+Increasing intensity, pain, and sickness. Plan is still to go downstairs and get some hormones (despite seemingly entering active labour)
+
 **00:00**  
 Contractions have become more intense
 
