@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**19:00**  
+We're in another room where they're going to administer the hormones. Gas and air is at the ready
+
 **18:40**  
 Induction yet to begin. Becky is bouncing on the pregnancy ball
 
