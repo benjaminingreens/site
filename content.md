@@ -4,6 +4,11 @@
 
 ## Monday 25th August 2025
 
+**17:00**  
+The midwives are re-checking Asa's vital signs. They seem much better this time, which hopefully means we can now go ahead
+
+![CTG](IMG_3465.HEIC)
+
 **16:30**  
 No change. Still waiting. Very quiet on the ward
 
