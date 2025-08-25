@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**18:40**  
+Induction yet to begin. Becky is bouncing on the pregnancy ball
+
 **18:15**  
 Some lovely friends dropped off some food for us at the hospital. The midwives say they will begin induction in 5 minutes
 
