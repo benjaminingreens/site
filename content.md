@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**18:15**  
+Some lovely friends dropped off some food for us at the hospital. The midwives say they will begin induction in 5 minutes
+
 **17:40**  
 Midwife is happy with the vital signs and has said she'll administer the hormones after checking with the doctor
 
