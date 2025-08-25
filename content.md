@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**17:25**  
+Dinner served
+
 **17:15**  
 Apparently the doctor should be arriving soon. Fr fr ong this time
 
