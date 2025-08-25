@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**16:30**  
+No change. Still waiting. Very quiet on the ward
+
 **16:00**  
 Midwives have taken baby's readings to a doctor for consultation. Hopefully this will result in a decision to go ahead with induction
 
