@@ -7,6 +7,9 @@
 **19:25**  
 Midwives did the pre-induction examination and found that Becky was already 2-3cm dilated. They did a sweep to help move things along. We are booked to be taken up to the delivery suite ASAP so they can break her waters
 
+**19:20**  
+Had a cheeky puff of gas and air (Ben)
+
 **19:00**  
 We're in another room where they're going to administer the hormones. Gas and air is at the ready
 
