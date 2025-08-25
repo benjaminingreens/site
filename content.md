@@ -4,6 +4,9 @@
 
 ## Monday 25th August 2025
 
+**20:30**  
+A quiet moment. Becky bouncing on ball. All chatting while waiting for the move to delivery suite
+
 **20:00**  
 It seems like the sweep has helped with labour, as pain and pressure has intensified. No contractions yet. Marion has arrived
 
