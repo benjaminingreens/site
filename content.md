@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**4:00**  
+Midwife not too happy with Asa's heart rate. Keeping an eye on it and getting a doctor to have a look
+
 **3:50**  
 Midwife thinks contractions are too regular. Medication being administered to slow them down
 
