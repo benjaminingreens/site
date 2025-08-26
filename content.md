@@ -5,16 +5,16 @@
 ## Tuesday 26th August 2025
 
 **6:38**  
-After about 20 minutes of pushing and severe effort, Asa was born at ~6:38 in the morning.
+After about 20 minutes of pushing and severe effort, Asa was born at ~6:38 in the morning
 
-He is healthy and happy. He weighs 4kg and looks like his mother and his brother.
+He is healthy and happy. He weighs 4kg and looks like his mother and his brother
 
 His full name is **Asa Aodhán Ebow Amonoo Hammond**
 
 ![Asa](IMG_3655.HEIC)
 
 **6:15**  
-The doctor came and examined Becky, who found that she was already fully dilated. This is why the epidural wasn't working, and it meant pushing could begin.
+The doctor came and examined Becky, who found that she was already fully dilated. This is why the epidural wasn't working, and it meant pushing could begin
 
 **6:00**  
 Epidural seemed to fail. Contractions above average in regularity. More medication to slow down contractions. Anaesthetist requested again to examine epidural
