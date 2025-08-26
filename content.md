@@ -4,8 +4,11 @@
 
 ## Tuesday 26th August 2025
 
+**2:40**  
+While we wait to complete the epidural, the partially successful epidural has relieved Becky of enough pain for her to fall asleep
+
 **2:30**  
-Contractions have reached most intense point. Epidural underway. Several attempts have been unsuccessful. Scan of back needed
+Contractions have reached most intense point. Epidural underway. Several attempts have been unsuccessful / partially successful. Scan of back needed
 
 **01:15**  
 Another examination revealed 3-4cm dilation. Failed to manually break waters again. Becky passed out due to overuse of gas and air. Midwives acknowledge active labour and will keep us here
