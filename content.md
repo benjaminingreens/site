@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**2:30**  
+Contractions have reached most intense point. Epidural underway. Several attempts have been unsuccessful. Scan of back needed
+
 **01:15**  
 Another examination revealed 3-4cm dilation. Failed to manually break waters again. Midwives acknowledge active labour and will keep us here
 
