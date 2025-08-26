@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**6:00**  
+Epidural seemed to fail. Contractions above average in regularity. More medication to slow down contractions. Anaesthetist requested again to examine epidural
+
 **5:05**  
 Examination shows about 5-6cm dilation. Next examination in 4 hours will hopefully show full dilation, at which point pushing Asa out can begin. I don't think a doctor is coming to consult
 
