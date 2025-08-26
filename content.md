@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**3:00**  
+Epidural successfully completed by Steve the anaesthetist
+
 **2:40**  
 While we wait to complete the epidural, the partially successful epidural has relieved Becky of enough pain for her to fall asleep
 
