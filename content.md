@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**01:15**  
+Another examination revealed 3-4cm dilation. Failed to manually break waters again. Midwives acknowledge active labour and will keep us here
+
 **00:30**  
 Increasing intensity, pain, and sickness. Plan is still to go downstairs and get some hormones (despite seemingly entering active labour)
 
