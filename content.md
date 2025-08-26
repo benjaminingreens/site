@@ -4,8 +4,11 @@
 
 ## Tuesday 26th August 2025
 
+**5:05**  
+Examination shows about 5-6cm dilation. Next examination in 4 hours will hopefully show full dilation, at which point pushing Asa out can begin. I don't think a doctor is coming to consult
+
 **4:45**  
-Things seem to have settled down a bit. Asa's heart rate appears to have steadied. Just waiting for labour to pick up again
+Things seem to have settled down a bit. Asa's heart rate appears to have steadied
 
 **4:00**  
 Midwife not too happy with Asa's heart rate. Keeping an eye on it and getting a doctor to have a look
