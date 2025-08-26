@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**3:30**  
+Becky exhausted. Contractions still at peak. But this is a relative moment of calm. I guess we're just waiting for the next stage of labour?
+
 **3:00**  
 Epidural successfully completed by Steve the anaesthetist
 
