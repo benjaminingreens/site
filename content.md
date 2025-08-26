@@ -8,7 +8,7 @@
 Contractions have reached most intense point. Epidural underway. Several attempts have been unsuccessful. Scan of back needed
 
 **01:15**  
-Another examination revealed 3-4cm dilation. Failed to manually break waters again. Midwives acknowledge active labour and will keep us here
+Another examination revealed 3-4cm dilation. Failed to manually break waters again. Becky passed out due to overuse of gas and air. Midwives acknowledge active labour and will keep us here
 
 **00:30**  
 Increasing intensity, pain, and sickness. Plan is still to go downstairs and get some hormones (despite seemingly entering active labour)
