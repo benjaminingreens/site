@@ -4,6 +4,9 @@
 
 ## Tuesday 26th August 2025
 
+**3:50**  
+Midwife thinks contractions are too regular. Medication being administered to slow them down
+
 **3:30**  
 Becky exhausted. Contractions still at peak. But this is a relative moment of calm. I guess we're just waiting for the next stage of labour?
 
